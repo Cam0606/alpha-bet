@@ -219,3 +219,9 @@ __marimo__/
 
 # Projet alpha-bet
 data/logs/
+
+# Projet alpha-bet
+data/logs/
+*.db
+*.sqlite
+.DS_Store
